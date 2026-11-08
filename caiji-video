@@ -1,8 +1,8 @@
 {
   "sources": [
     { "name": "FFZY 采集源", "url": "https://cj.ffzyapi.com/api.php/provide/vod" },
-    { "name": "DyttZy 采集源", "url": "shturl.cc/0bG2fhmEG9h72TJMNQZyOs4CvytAwhLarkrXM" },
+    { "name": "DyttZy 采集源", "url": "https://caiji.dyttzyapi.com/api.php/provide/vod" },
     { "name": "星夜采集源", "url": "https://xyezy.com/api.php/provide/vod" },
-    { "name": "看看采集源", "url": "shturl.cc/ubE7TuY2Pt7tEDjrALeVhtzY" }
+    { "name": "看看采集源", "url": "https://f-1.cc/api.php/provide/vod" }
   ]
 }
