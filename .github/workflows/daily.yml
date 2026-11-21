@@ -1,0 +1,59 @@
+name: Daily caiji-tvbox update
+
+on:
+  schedule:
+    # 每天 22:00 UTC = 次日 06:00 北京时间（GitHub 定时任务可能有几分钟延迟）
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: caiji-tvbox
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+      PYTHONIOENCODING: utf-8
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Crawl + probe + build
+        run: python scripts/pipeline.py
+
+      - name: Commit changes
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A caiji-tvbox report.md state.json README.md
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "chore: update caiji-tvbox $(date +%F)"
+            git pull --rebase --autostash origin ${GITHUB_REF_NAME}
+            git push
+          fi
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: caiji-report
+          path: |
+            report.md
+            caiji-tvbox
+          retention-days: 14

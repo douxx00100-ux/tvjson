@@ -1,0 +1,13 @@
+{
+  "source": "https://www.yszzq.com/ziyuan/api/",
+  "max_pages": 20,
+  "crawl_timeout": 15,
+  "probe_timeout": 8,
+  "probe_workers": 24,
+  "check_search": true,
+  "exclude_adult": false,
+  "include_novel": true,
+  "drop_after_failures": 3,
+  "history_keep": 100,
+  "output_format": "sources"
+}
