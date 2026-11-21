@@ -4,7 +4,7 @@
    "name": "茅台资源站采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/216.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -12,6 +12,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 3208,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 1286,
      "err": ""
     }
    ],
@@ -24,8 +30,8 @@
     "赞片cms"
    ],
    "listed": true,
-   "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
-   "latency_ms": 3208,
+   "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/xmlsea/",
+   "latency_ms": 1286,
    "fingerprint": "47ad3973911ae2ff",
    "search": false,
    "adult": false,
@@ -36,7 +42,7 @@
    "name": "茅台资源站采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/216.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -44,6 +50,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 3805,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 1271,
      "err": ""
     }
    ],
@@ -53,7 +65,7 @@
    ],
    "listed": true,
    "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtyun/at/xml/",
-   "latency_ms": 3805,
+   "latency_ms": 1271,
    "fingerprint": "47ad3973911ae2ff",
    "search": false,
    "adult": false,
@@ -65,9 +77,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/216.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "blocked/http200"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -88,7 +106,7 @@
    "name": "如意资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/205.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -96,6 +114,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2094,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 1343,
      "err": ""
     }
    ],
@@ -108,8 +132,8 @@
     "API接口"
    ],
    "listed": true,
-   "api": "https://cj.rycjapi.com/api.php/provide/vod/",
-   "latency_ms": 2094,
+   "api": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/",
+   "latency_ms": 1343,
    "fingerprint": "a1813f4ff3101264",
    "search": true,
    "adult": false,
@@ -120,7 +144,7 @@
    "name": "如意资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/205.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -128,6 +152,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 4775,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 3079,
      "err": ""
     }
    ],
@@ -137,7 +167,7 @@
    ],
    "listed": true,
    "api": "https://cj.rycjapi.com/api.php/seacms/vod/at/xml/",
-   "latency_ms": 4775,
+   "latency_ms": 3079,
    "fingerprint": "a1813f4ff3101264",
    "search": true,
    "adult": false,
@@ -148,7 +178,7 @@
    "name": "星夜资源站采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/254.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -156,6 +186,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1351,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 489,
      "err": ""
     }
    ],
@@ -169,8 +205,8 @@
     "API接口"
    ],
    "listed": true,
-   "api": "https://xyezy.com/api.php/provide/vod/at/xmlsea/",
-   "latency_ms": 1351,
+   "api": "https://xyezy.com/api.php/provide/vod/",
+   "latency_ms": 489,
    "fingerprint": "3dd2276691a45fdd",
    "search": true,
    "adult": true,
@@ -181,7 +217,7 @@
    "name": "看看资源影视采集接口大全",
    "detail": "https://www.yszzq.com/ziyuan/api/253.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -189,6 +225,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2746,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 310,
      "err": ""
     }
    ],
@@ -200,7 +242,7 @@
    ],
    "listed": true,
    "api": "https://f-1.cc/api.php/provide/vod/at/xml/",
-   "latency_ms": 2746,
+   "latency_ms": 310,
    "fingerprint": "723bb382a0bf5125",
    "search": false,
    "adult": true,
@@ -212,9 +254,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/253.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "blocked/http404"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -235,7 +283,7 @@
    "name": "新芒果资源站采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/251.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -243,6 +291,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1077,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 176,
      "err": ""
     }
    ],
@@ -255,7 +309,7 @@
    ],
    "listed": true,
    "api": "https://caiji.mgzyapi.com/api.php/provide/vod/at/xml/",
-   "latency_ms": 1077,
+   "latency_ms": 176,
    "fingerprint": "42981ec99c3f9ef4",
    "search": true,
    "adult": false,
@@ -267,9 +321,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/251.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "blocked/http404"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -290,7 +350,7 @@
    "name": "巨量资源网采集接口，苹果/海洋/飞飞/赞片",
    "detail": "https://www.yszzq.com/ziyuan/api/250.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -298,6 +358,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2725,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 1096,
      "err": ""
     }
    ],
@@ -311,7 +377,7 @@
    ],
    "listed": true,
    "api": "https://api.juliang.live/api/provide/vod/at/xml/",
-   "latency_ms": 2725,
+   "latency_ms": 1096,
    "fingerprint": "f9c41a3f3d211b2e",
    "search": true,
    "adult": true,
@@ -322,7 +388,7 @@
    "name": "黑料资源网采集接口大全",
    "detail": "https://www.yszzq.com/ziyuan/api/233.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -330,6 +396,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2456,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 1603,
      "err": ""
     }
    ],
@@ -343,7 +415,7 @@
    ],
    "listed": true,
    "api": "https://heiliaozyapi.com/api.php/provide/vod/at/xml",
-   "latency_ms": 2456,
+   "latency_ms": 1603,
    "fingerprint": "85ce07c6e7bfa781",
    "search": true,
    "adult": true,
@@ -354,7 +426,7 @@
    "name": "黑料资源网采集接口大全",
    "detail": "https://www.yszzq.com/ziyuan/api/233.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -362,6 +434,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2458,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 1611,
      "err": ""
     }
    ],
@@ -371,7 +449,7 @@
    ],
    "listed": true,
    "api": "https://www.heiliaozyapi.com/api.php/provide/vod/at/seaxml/",
-   "latency_ms": 2458,
+   "latency_ms": 1611,
    "fingerprint": "85ce07c6e7bfa781",
    "search": true,
    "adult": true,
@@ -383,9 +461,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/233.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "too_few_items:0"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -406,7 +490,7 @@
    "name": "红牛资源采集地址",
    "detail": "https://www.yszzq.com/ziyuan/api/119.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -414,6 +498,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 4301,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 157,
      "err": ""
     }
    ],
@@ -427,7 +517,7 @@
    ],
    "listed": true,
    "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xmlsea/",
-   "latency_ms": 4301,
+   "latency_ms": 157,
    "fingerprint": "7ac65352b267c430",
    "search": true,
    "adult": false,
@@ -438,7 +528,7 @@
    "name": "红牛资源采集地址",
    "detail": "https://www.yszzq.com/ziyuan/api/119.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -446,6 +536,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 5337,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 178,
      "err": ""
     }
    ],
@@ -455,9 +551,9 @@
    ],
    "listed": true,
    "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnyun/at/xml/",
-   "latency_ms": 5337,
+   "latency_ms": 178,
    "fingerprint": "7ac65352b267c430",
-   "search": false,
+   "search": true,
    "adult": false,
    "last_ok": "2026-11-21",
    "last_check": "2026-11-21"
@@ -466,7 +562,7 @@
    "name": "光速资源站采集接口地址",
    "detail": "https://www.yszzq.com/ziyuan/api/135.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -474,6 +570,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 657,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 29,
      "err": ""
     }
    ],
@@ -487,7 +589,7 @@
    ],
    "listed": true,
    "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-   "latency_ms": 657,
+   "latency_ms": 29,
    "fingerprint": "47b04cd8d67171fd",
    "search": true,
    "adult": false,
@@ -498,7 +600,7 @@
    "name": "光速资源站采集接口地址",
    "detail": "https://www.yszzq.com/ziyuan/api/135.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -506,6 +608,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1187,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 151,
      "err": ""
     }
    ],
@@ -515,7 +623,7 @@
    ],
    "listed": true,
    "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsyun/at/xmlsea/",
-   "latency_ms": 1187,
+   "latency_ms": 151,
    "fingerprint": "d3c48d85e71b2268",
    "search": true,
    "adult": false,
@@ -526,7 +634,7 @@
    "name": "金鹰资源网苹果CMS采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/138.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -534,6 +642,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2077,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 357,
      "err": ""
     }
    ],
@@ -547,7 +661,7 @@
    ],
    "listed": true,
    "api": "https://jyzyapi.com/provide/vod/at/xml/",
-   "latency_ms": 2077,
+   "latency_ms": 357,
    "fingerprint": "60d3de86f74d71dd",
    "search": true,
    "adult": false,
@@ -558,7 +672,7 @@
    "name": "金鹰资源网苹果CMS采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/138.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -566,6 +680,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1231,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 501,
      "err": ""
     }
    ],
@@ -575,7 +695,7 @@
    ],
    "listed": true,
    "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
-   "latency_ms": 1231,
+   "latency_ms": 501,
    "fingerprint": "60d3de86f74d71dd",
    "search": true,
    "adult": false,
@@ -586,7 +706,7 @@
    "name": "新浪资源采集网采集接口大全",
    "detail": "https://www.yszzq.com/ziyuan/api/140.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -594,6 +714,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2168,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 620,
      "err": ""
     }
    ],
@@ -606,8 +732,8 @@
    ],
    "listed": true,
    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
-   "latency_ms": 2168,
-   "fingerprint": "53892d1be0f09681",
+   "latency_ms": 620,
+   "fingerprint": "fbd6bbdafc500bbe",
    "search": true,
    "adult": false,
    "last_ok": "2026-11-21",
@@ -617,7 +743,7 @@
    "name": "新浪资源采集网采集接口大全",
    "detail": "https://www.yszzq.com/ziyuan/api/140.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -625,6 +751,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2284,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 659,
      "err": ""
     }
    ],
@@ -635,8 +767,8 @@
    ],
    "listed": true,
    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlyun/at/xmlsea/",
-   "latency_ms": 2284,
-   "fingerprint": "53892d1be0f09681",
+   "latency_ms": 659,
+   "fingerprint": "fbd6bbdafc500bbe",
    "search": true,
    "adult": false,
    "last_ok": "2026-11-21",
@@ -646,7 +778,7 @@
    "name": "速播资源采集规则地址",
    "detail": "https://www.yszzq.com/ziyuan/api/156.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -654,6 +786,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 899,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 715,
      "err": ""
     }
    ],
@@ -664,8 +802,8 @@
    ],
    "listed": true,
    "api": "https://subocj.com/api.php/provide/vod",
-   "latency_ms": 899,
-   "fingerprint": "c23c9b4fd66d993a",
+   "latency_ms": 715,
+   "fingerprint": "182c9a93ef871483",
    "search": true,
    "adult": false,
    "last_ok": "2026-11-21",
@@ -675,7 +813,7 @@
    "name": "速播资源采集规则地址",
    "detail": "https://www.yszzq.com/ziyuan/api/156.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -683,6 +821,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1356,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 707,
      "err": ""
     }
    ],
@@ -692,7 +836,7 @@
    ],
    "listed": true,
    "api": "https://subocj.com/api.php/provide/vod/from/subyun/at/xmlsea",
-   "latency_ms": 1356,
+   "latency_ms": 707,
    "fingerprint": "182c9a93ef871483",
    "search": true,
    "adult": false,
@@ -703,7 +847,7 @@
    "name": "速播资源采集规则地址",
    "detail": "https://www.yszzq.com/ziyuan/api/156.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -711,6 +855,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1351,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 716,
      "err": ""
     }
    ],
@@ -720,7 +870,7 @@
    ],
    "listed": true,
    "api": "https://subocj.com/api.php/provide/vod/from/subm3u8/at/xml",
-   "latency_ms": 1351,
+   "latency_ms": 716,
    "fingerprint": "182c9a93ef871483",
    "search": true,
    "adult": false,
@@ -731,7 +881,7 @@
    "name": "豪华资源网采集接口地址",
    "detail": "https://www.yszzq.com/ziyuan/api/180.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -739,6 +889,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 855,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 264,
      "err": ""
     }
    ],
@@ -749,8 +905,8 @@
     "API接口"
    ],
    "listed": true,
-   "api": "https://hhzyapi.com/api.php/provide/vod/",
-   "latency_ms": 855,
+   "api": "https://hhzyapi.com/api.php/provide/vod",
+   "latency_ms": 264,
    "fingerprint": "36c4aeb77c61a35e",
    "search": true,
    "adult": false,
@@ -761,7 +917,7 @@
    "name": "豪华资源网采集接口地址",
    "detail": "https://www.yszzq.com/ziyuan/api/180.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -769,6 +925,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1113,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 223,
      "err": ""
     }
    ],
@@ -778,7 +940,7 @@
    ],
    "listed": true,
    "api": "https://hhzyapi.com/api.php/provide/vod/from/hhyun/at/xmlsea",
-   "latency_ms": 1113,
+   "latency_ms": 223,
    "fingerprint": "36c4aeb77c61a35e",
    "search": true,
    "adult": false,
@@ -789,7 +951,7 @@
    "name": "豪华资源网采集接口地址",
    "detail": "https://www.yszzq.com/ziyuan/api/180.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -797,6 +959,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1148,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 229,
      "err": ""
     }
    ],
@@ -807,7 +975,7 @@
    ],
    "listed": true,
    "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/xml",
-   "latency_ms": 1148,
+   "latency_ms": 229,
    "fingerprint": "36c4aeb77c61a35e",
    "search": true,
    "adult": false,
@@ -818,7 +986,7 @@
    "name": "虎牙资源采集网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/230.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -826,6 +994,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1010,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 306,
      "err": ""
     }
    ],
@@ -838,8 +1012,8 @@
     "赞片cms"
    ],
    "listed": true,
-   "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
-   "latency_ms": 1010,
+   "api": "https://www.huyaapi.com/api.php/provide/vod/at/xmlsea/",
+   "latency_ms": 306,
    "fingerprint": "60d3de86f74d71dd",
    "search": true,
    "adult": false,
@@ -851,7 +1025,7 @@
    "name": "爱奇艺资源站采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/220.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -859,6 +1033,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2189,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 2108,
      "err": ""
     }
    ],
@@ -873,7 +1053,7 @@
    ],
    "listed": true,
    "api": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/?cms=1",
-   "latency_ms": 2189,
+   "latency_ms": 2108,
    "fingerprint": "9af972db7f37b1b7",
    "search": true,
    "adult": false,
@@ -885,14 +1065,20 @@
    "detail": "https://www.yszzq.com/ziyuan/api/207.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
     {
      "d": "2026-11-21",
      "ok": false,
      "ms": null,
      "err": "SSLError"
+    },
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "ConnectionError"
     }
    ],
    "content": "电影 / 电视剧 / 动漫 / 综艺 / 小说 / 体育 / 短视频 / 新闻",
@@ -905,7 +1091,7 @@
    ],
    "listed": true,
    "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
-   "last_error": "SSLError",
+   "last_error": "ConnectionError",
    "last_check": "2026-11-21"
   },
   "dbzy5.com/api.php/provide/vod/from/dbyun/at/": {
@@ -913,14 +1099,20 @@
    "detail": "https://www.yszzq.com/ziyuan/api/207.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
     {
      "d": "2026-11-21",
      "ok": false,
      "ms": null,
      "err": "SSLError"
+    },
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "ConnectionError"
     }
    ],
    "content": "电影 / 电视剧 / 动漫 / 综艺 / 小说 / 体育 / 短视频 / 新闻",
@@ -929,7 +1121,7 @@
    ],
    "listed": true,
    "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbyun/at/xml/",
-   "last_error": "SSLError",
+   "last_error": "ConnectionError",
    "last_check": "2026-11-21"
   },
   "dbzy5.com/api.php/provide/art/": {
@@ -937,14 +1129,20 @@
    "detail": "https://www.yszzq.com/ziyuan/api/207.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
     {
      "d": "2026-11-21",
      "ok": false,
      "ms": null,
      "err": "SSLError"
+    },
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "ConnectionError"
     }
    ],
    "content": "电影 / 电视剧 / 动漫 / 综艺 / 小说 / 体育 / 短视频 / 新闻",
@@ -953,14 +1151,14 @@
    ],
    "listed": true,
    "api": "https://caiji.dbzy5.com/api.php/provide/art/",
-   "last_error": "SSLError",
+   "last_error": "ConnectionError",
    "last_check": "2026-11-21"
   },
   "naixxzy.com/api.php/provide/vod/at/": {
    "name": "奶香香资源站采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/185.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -968,6 +1166,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1798,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 982,
      "err": ""
     }
    ],
@@ -981,7 +1185,7 @@
    ],
    "listed": true,
    "api": "https://Naixxzy.com/api.php/provide/vod/",
-   "latency_ms": 1798,
+   "latency_ms": 982,
    "fingerprint": "a30a2eef4c62ee01",
    "search": false,
    "adult": true,
@@ -992,7 +1196,7 @@
    "name": "魔都动漫资源采集网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/181.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1000,6 +1204,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1015,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 366,
      "err": ""
     }
    ],
@@ -1014,8 +1224,8 @@
     "爱影cms"
    ],
    "listed": true,
-   "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/?cms=1",
-   "latency_ms": 1015,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/",
+   "latency_ms": 366,
    "fingerprint": "3665cd40b7da3fc1",
    "search": true,
    "adult": true,
@@ -1026,7 +1236,7 @@
    "name": "奥斯卡资源API采集接口大全",
    "detail": "https://www.yszzq.com/ziyuan/api/155.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1034,6 +1244,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2351,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 252,
      "err": ""
     }
    ],
@@ -1045,8 +1261,8 @@
     "赞片cms"
    ],
    "listed": true,
-   "api": "https://aosikazy.com/api.php/provide/vod/at/xmlsea/",
-   "latency_ms": 2351,
+   "api": "https://aosikazy.com/api.php/provide/vod/at/xml/",
+   "latency_ms": 252,
    "fingerprint": "a30a2eef4c62ee01",
    "search": false,
    "adult": true,
@@ -1059,14 +1275,20 @@
    "detail": "https://www.yszzq.com/ziyuan/api/155.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
     {
      "d": "2026-11-21",
      "ok": false,
      "ms": null,
      "err": "SSLError"
+    },
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "ConnectionError"
     }
    ],
    "content": "小说 / 其他",
@@ -1075,14 +1297,14 @@
    ],
    "listed": true,
    "api": "https://asoikazy.com/api.php/provide/vod/at/xml",
-   "last_error": "SSLError",
+   "last_error": "ConnectionError",
    "last_check": "2026-11-21"
   },
   "apiyutu.com/api.php/Seacms/vod/": {
    "name": "玉兔资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/169.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1090,6 +1312,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1484,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 386,
      "err": ""
     }
    ],
@@ -1099,7 +1327,7 @@
    ],
    "listed": true,
    "api": "https://apiyutu.com/api.php/Seacms/vod/",
-   "latency_ms": 1484,
+   "latency_ms": 386,
    "fingerprint": "53aaf6dd4fb81d63",
    "search": true,
    "adult": true,
@@ -1110,7 +1338,7 @@
    "name": "玉兔资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/169.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1118,6 +1346,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1300,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 87,
      "err": ""
     }
    ],
@@ -1129,7 +1363,7 @@
    ],
    "listed": true,
    "api": "https://apiyutu.com/api.php/provide/vod/at/xml/",
-   "latency_ms": 1300,
+   "latency_ms": 87,
    "fingerprint": "53aaf6dd4fb81d63",
    "search": true,
    "adult": true,
@@ -1141,9 +1375,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/169.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "too_few_items:0"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -1164,7 +1404,7 @@
    "name": "ikun资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/188.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1172,6 +1412,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 706,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 111,
      "err": ""
     }
    ],
@@ -1185,8 +1431,8 @@
     "苹果cmsV10"
    ],
    "listed": true,
-   "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
-   "latency_ms": 706,
+   "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/",
+   "latency_ms": 111,
    "fingerprint": "a9c4d189a63f2300",
    "search": true,
    "adult": false,
@@ -1197,7 +1443,7 @@
    "name": "ikun资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/188.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1205,6 +1451,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 776,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 53,
      "err": ""
     }
    ],
@@ -1214,7 +1466,7 @@
    ],
    "listed": true,
    "api": "https://ikunzyapi.com/api.php/seaxml/vod/at/xml",
-   "latency_ms": 776,
+   "latency_ms": 53,
    "fingerprint": "a9c4d189a63f2300",
    "search": true,
    "adult": false,
@@ -1225,7 +1477,7 @@
    "name": "厂长资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/252.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1233,6 +1485,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1112,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 444,
      "err": ""
     }
    ],
@@ -1244,8 +1502,8 @@
     "API接口"
    ],
    "listed": true,
-   "api": "https://api.changzhang.tv/api.php/provide/vod/at/xml/",
-   "latency_ms": 1112,
+   "api": "https://api.changzhang.tv/api.php/provide/vod/",
+   "latency_ms": 444,
    "fingerprint": "68485f2f5c514069",
    "search": true,
    "adult": false,
@@ -1256,7 +1514,7 @@
    "name": "厂长资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/252.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1264,6 +1522,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1253,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 453,
      "err": ""
     }
    ],
@@ -1273,7 +1537,7 @@
    ],
    "listed": true,
    "api": "https://api.changzhang.tv/api.php/seacms/vod/at/xml/",
-   "latency_ms": 1253,
+   "latency_ms": 453,
    "fingerprint": "68485f2f5c514069",
    "search": true,
    "adult": false,
@@ -1284,7 +1548,7 @@
    "name": "厂长资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/252.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1292,6 +1556,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 942,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 418,
      "err": ""
     }
    ],
@@ -1301,7 +1571,7 @@
    ],
    "listed": true,
    "api": "https://api.changzhang.tv/api.php/feifei/vod/at/xml/",
-   "latency_ms": 942,
+   "latency_ms": 418,
    "fingerprint": "68485f2f5c514069",
    "search": true,
    "adult": false,
@@ -1312,7 +1582,7 @@
    "name": "大众资源采集接口大全",
    "detail": "https://www.yszzq.com/ziyuan/api/247.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1320,6 +1590,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 720,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 71,
      "err": ""
     }
    ],
@@ -1332,8 +1608,8 @@
     "API接口"
    ],
    "listed": true,
-   "api": "https://cdn.dzzyapi.com/api.php/provide/vod/",
-   "latency_ms": 720,
+   "api": "https://cdn.dzzyapi.com/api.php/provide/vod/at/xmlsea/",
+   "latency_ms": 71,
    "fingerprint": "4545995f8a31bd97",
    "search": true,
    "adult": false,
@@ -1344,7 +1620,7 @@
    "name": "西瓜资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/244.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1352,6 +1628,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1844,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 301,
      "err": ""
     }
    ],
@@ -1365,7 +1647,7 @@
    ],
    "listed": true,
    "api": "https://caiji.xgzyapi.com/api.php/provide/vod/",
-   "latency_ms": 1844,
+   "latency_ms": 301,
    "fingerprint": "17797b8e7977a78c",
    "search": true,
    "adult": false,
@@ -1376,7 +1658,7 @@
    "name": "西瓜资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/244.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1384,6 +1666,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2796,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 595,
      "err": ""
     }
    ],
@@ -1393,7 +1681,7 @@
    ],
    "listed": true,
    "api": "https://caiji.xgzyapi.com/api.php/seacms/vod/at/xml/",
-   "latency_ms": 2796,
+   "latency_ms": 595,
    "fingerprint": "17797b8e7977a78c",
    "search": true,
    "adult": false,
@@ -1404,7 +1692,7 @@
    "name": "无水印资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/243.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1412,6 +1700,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1075,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 261,
      "err": ""
     }
    ],
@@ -1423,7 +1717,7 @@
    ],
    "listed": true,
    "api": "https://api.wsyzy.net/api.php/provide/vod/from/wsym3u8/at/xml/",
-   "latency_ms": 1075,
+   "latency_ms": 261,
    "fingerprint": "978cb5377b3002c6",
    "search": false,
    "adult": true,
@@ -1434,7 +1728,7 @@
    "name": "云解析资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/238.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1442,6 +1736,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1852,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 1049,
      "err": ""
     }
    ],
@@ -1451,7 +1751,7 @@
    ],
    "listed": true,
    "api": "https://api.yparse.com/api/json",
-   "latency_ms": 1852,
+   "latency_ms": 1049,
    "fingerprint": "0f19f6853c4946da",
    "search": false,
    "adult": false,
@@ -1462,7 +1762,7 @@
    "name": "猫眼资源站采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/224.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1470,6 +1770,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1623,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 544,
      "err": ""
     }
    ],
@@ -1482,7 +1788,7 @@
    ],
    "listed": true,
    "api": "https://api.maoyanapi.top/api.php/provide/vod/at/xml/",
-   "latency_ms": 1623,
+   "latency_ms": 544,
    "fingerprint": "89943637c7e7bacb",
    "search": true,
    "adult": false,
@@ -1494,9 +1800,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/224.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "blocked/http404"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -1517,7 +1829,7 @@
    "name": "优质资源库采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/149.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1525,6 +1837,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2083,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 710,
      "err": ""
     }
    ],
@@ -1534,7 +1852,7 @@
    ],
    "listed": true,
    "api": "https://api.yzzy-api.com/inc/ldg_api_all.php",
-   "latency_ms": 2083,
+   "latency_ms": 710,
    "fingerprint": "22747e61177a4f68",
    "search": true,
    "adult": false,
@@ -1545,7 +1863,7 @@
    "name": "优质资源库采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/149.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1553,6 +1871,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 3051,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 387,
      "err": ""
     }
    ],
@@ -1562,7 +1886,7 @@
    ],
    "listed": true,
    "api": "https://api.yzzy-api.com/inc/api_mac10_all.php",
-   "latency_ms": 3051,
+   "latency_ms": 387,
    "fingerprint": "22747e61177a4f68",
    "search": true,
    "adult": false,
@@ -1574,9 +1898,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/149.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "too_few_items:0"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -1597,7 +1927,7 @@
    "name": "优质资源库采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/149.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1605,6 +1935,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2756,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 532,
      "err": ""
     }
    ],
@@ -1614,7 +1950,7 @@
    ],
    "listed": true,
    "api": "https://api.yzzy-api.com/inc/api.php",
-   "latency_ms": 2756,
+   "latency_ms": 532,
    "fingerprint": "22747e61177a4f68",
    "search": true,
    "adult": false,
@@ -1625,7 +1961,7 @@
    "name": "优质资源库采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/149.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1633,6 +1969,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2581,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 497,
      "err": ""
     }
    ],
@@ -1642,7 +1984,7 @@
    ],
    "listed": true,
    "api": "https://api.yzzy-api.com/inc/apijson.php",
-   "latency_ms": 2581,
+   "latency_ms": 497,
    "fingerprint": "22747e61177a4f68",
    "search": true,
    "adult": false,
@@ -1653,7 +1995,7 @@
    "name": "OK资源采集网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/235.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1661,6 +2003,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1132,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 299,
      "err": ""
     }
    ],
@@ -1670,7 +2018,7 @@
    ],
    "listed": true,
    "api": "http://api.okzyw.net/api.php/provide/vod/from/okm3u8/at/xml",
-   "latency_ms": 1132,
+   "latency_ms": 299,
    "fingerprint": "84905e632a8a5273",
    "search": false,
    "adult": true,
@@ -1682,7 +2030,7 @@
    "name": "U酷资源网采集地址",
    "detail": "https://www.yszzq.com/ziyuan/api/127.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1690,6 +2038,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 859,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 77,
      "err": ""
     }
    ],
@@ -1705,7 +2059,7 @@
    ],
    "listed": true,
    "api": "https://api.ukuapi88.com/api.php/provide/vod/at/xmlsea/",
-   "latency_ms": 859,
+   "latency_ms": 77,
    "fingerprint": "d32429f56377106f",
    "search": true,
    "adult": false,
@@ -1717,9 +2071,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/127.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "too_few_items:0"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -1740,7 +2100,7 @@
    "name": "量子资源网资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/142.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1748,6 +2108,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1653,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 1145,
      "err": ""
     }
    ],
@@ -1761,8 +2127,8 @@
    ],
    "listed": true,
    "api": "https://cj.lziapi.com/api.php/provide/vod/",
-   "latency_ms": 1653,
-   "fingerprint": "0d865cb4d59aef7f",
+   "latency_ms": 1145,
+   "fingerprint": "f2110b086cb882bc",
    "search": true,
    "adult": false,
    "last_ok": "2026-11-21",
@@ -1772,7 +2138,7 @@
    "name": "量子资源网资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/142.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1780,6 +2146,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1639,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 1180,
      "err": ""
     }
    ],
@@ -1789,8 +2161,8 @@
    ],
    "listed": true,
    "api": "https://cj.lziapi.com/api.php/seacms/vod/at/xml/",
-   "latency_ms": 1639,
-   "fingerprint": "0d865cb4d59aef7f",
+   "latency_ms": 1180,
+   "fingerprint": "f2110b086cb882bc",
    "search": true,
    "adult": false,
    "last_ok": "2026-11-21",
@@ -1801,9 +2173,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/142.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "too_few_items:0"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -1825,9 +2203,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/142.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "too_few_items:0"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -1848,7 +2232,7 @@
    "name": "量子资源网资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/142.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1856,6 +2240,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1455,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 1132,
      "err": ""
     }
    ],
@@ -1865,8 +2255,8 @@
    ],
    "listed": true,
    "api": "https://cj.lziapi.com/api.php/providedown/vod/at/xml/",
-   "latency_ms": 1455,
-   "fingerprint": "0d865cb4d59aef7f",
+   "latency_ms": 1132,
+   "fingerprint": "f2110b086cb882bc",
    "search": true,
    "adult": false,
    "last_ok": "2026-11-21",
@@ -1876,7 +2266,7 @@
    "name": "最大资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/236.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1884,6 +2274,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 649,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 558,
      "err": ""
     }
    ],
@@ -1897,7 +2293,7 @@
    ],
    "listed": true,
    "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xmlsea/",
-   "latency_ms": 649,
+   "latency_ms": 558,
    "fingerprint": "1f3432803a8be93c",
    "search": true,
    "adult": true,
@@ -1908,7 +2304,7 @@
    "name": "最大资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/236.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1916,6 +2312,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 652,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 24,
      "err": ""
     }
    ],
@@ -1925,7 +2327,7 @@
    ],
    "listed": true,
    "api": "https://api.zuidapi.com/api.php/provide/vod/",
-   "latency_ms": 652,
+   "latency_ms": 24,
    "fingerprint": "b68307624a621bb7",
    "search": true,
    "adult": true,
@@ -1937,9 +2339,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/236.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "too_few_items:0"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -1960,7 +2368,7 @@
    "name": "天涯影视资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/221.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -1968,6 +2376,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1023,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 194,
      "err": ""
     }
    ],
@@ -1983,7 +2397,7 @@
    ],
    "listed": true,
    "api": "https://tyyszyapi.com/api.php/provide/vod/at/xml/",
-   "latency_ms": 1023,
+   "latency_ms": 194,
    "fingerprint": "1afc057153b4b690",
    "search": false,
    "adult": false,
@@ -1994,7 +2408,7 @@
    "name": "电影天堂采集综合资源接口",
    "detail": "https://www.yszzq.com/ziyuan/api/218.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2002,6 +2416,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1199,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 470,
      "err": ""
     }
    ],
@@ -2015,7 +2435,7 @@
    ],
    "listed": true,
    "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
-   "latency_ms": 1199,
+   "latency_ms": 470,
    "fingerprint": "78e625c92e4aa377",
    "search": true,
    "adult": false,
@@ -2026,7 +2446,7 @@
    "name": "电影天堂采集综合资源接口",
    "detail": "https://www.yszzq.com/ziyuan/api/218.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2034,6 +2454,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1115,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 244,
      "err": ""
     }
    ],
@@ -2043,7 +2469,7 @@
    ],
    "listed": true,
    "api": "http://caiji.dyttzyapi.com/api.php/seacms/vod/at/xml/",
-   "latency_ms": 1115,
+   "latency_ms": 244,
    "fingerprint": "78e625c92e4aa377",
    "search": true,
    "adult": false,
@@ -2054,7 +2480,7 @@
    "name": "百度资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/123.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2062,6 +2488,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2116,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 161,
      "err": ""
     }
    ],
@@ -2071,7 +2503,7 @@
    ],
    "listed": true,
    "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml/",
-   "latency_ms": 2116,
+   "latency_ms": 161,
    "fingerprint": "d7cb67a8b601fe3c",
    "search": true,
    "adult": true,
@@ -2082,7 +2514,7 @@
    "name": "百度资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/123.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2090,6 +2522,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1269,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 364,
      "err": ""
     }
    ],
@@ -2101,8 +2539,8 @@
     "飞飞cms"
    ],
    "listed": true,
-   "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xmlsea/",
-   "latency_ms": 1269,
+   "api": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml/",
+   "latency_ms": 364,
    "fingerprint": "d7cb67a8b601fe3c",
    "search": true,
    "adult": true,
@@ -2113,7 +2551,7 @@
    "name": "鸭鸭（丫丫）资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/176.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2121,6 +2559,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1303,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 366,
      "err": ""
     }
    ],
@@ -2131,7 +2575,7 @@
    ],
    "listed": true,
    "api": "https://cj.yayazy.net/api.php/provide/vod/from/yym3u8/at/xml",
-   "latency_ms": 1303,
+   "latency_ms": 366,
    "fingerprint": "84905e632a8a5273",
    "search": false,
    "adult": true,
@@ -2142,7 +2586,7 @@
    "name": "牛牛资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/237.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2150,6 +2594,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1307,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 584,
      "err": ""
     }
    ],
@@ -2159,7 +2609,7 @@
    ],
    "listed": true,
    "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
-   "latency_ms": 1307,
+   "latency_ms": 584,
    "fingerprint": "fffb35570ae2b54d",
    "search": false,
    "adult": true,
@@ -2170,7 +2620,7 @@
    "name": "360资源站采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/166.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2178,6 +2628,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1972,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 191,
      "err": ""
     }
    ],
@@ -2190,7 +2646,7 @@
    ],
    "listed": true,
    "api": "https://360zyzz.com/api.php/provide/vod",
-   "latency_ms": 1972,
+   "latency_ms": 191,
    "fingerprint": "73c140f83341e002",
    "search": true,
    "adult": false,
@@ -2201,7 +2657,7 @@
    "name": "360资源站采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/166.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2209,6 +2665,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 4268,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 348,
      "err": ""
     }
    ],
@@ -2218,7 +2680,7 @@
    ],
    "listed": true,
    "api": "https://360zyzz.com/api.php/seaxml/vod/at/xml",
-   "latency_ms": 4268,
+   "latency_ms": 348,
    "fingerprint": "73c140f83341e002",
    "search": true,
    "adult": false,
@@ -2229,7 +2691,7 @@
    "name": "极速资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/183.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2237,6 +2699,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1035,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 49,
      "err": ""
     }
    ],
@@ -2247,9 +2715,9 @@
     "API接口"
    ],
    "listed": true,
-   "api": "https://jszyapi.com/api.php/provide/vod",
-   "latency_ms": 1035,
-   "fingerprint": "b15bf65f3e58ead8",
+   "api": "https://jszyapi.com/api.php/provide/vod/",
+   "latency_ms": 49,
+   "fingerprint": "39e7b1dc37a9b673",
    "search": true,
    "adult": false,
    "last_ok": "2026-11-21",
@@ -2259,7 +2727,7 @@
    "name": "极速资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/183.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2267,6 +2735,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 4232,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 346,
      "err": ""
     }
    ],
@@ -2276,7 +2750,7 @@
    ],
    "listed": true,
    "api": "https://jszyapi.com/api.php/provide/vod/from/jsyun/at/xmlsea",
-   "latency_ms": 4232,
+   "latency_ms": 346,
    "fingerprint": "39e7b1dc37a9b673",
    "search": true,
    "adult": false,
@@ -2287,7 +2761,7 @@
    "name": "极速资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/183.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2295,6 +2769,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1200,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 403,
      "err": ""
     }
    ],
@@ -2305,7 +2785,7 @@
    ],
    "listed": true,
    "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/xml",
-   "latency_ms": 1200,
+   "latency_ms": 403,
    "fingerprint": "39e7b1dc37a9b673",
    "search": true,
    "adult": false,
@@ -2316,7 +2796,7 @@
    "name": "暴风资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/184.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2324,6 +2804,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 881,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 423,
      "err": ""
     }
    ],
@@ -2337,7 +2823,7 @@
    ],
    "listed": true,
    "api": "https://bfzyapi.com/api.php/provide/vod/",
-   "latency_ms": 881,
+   "latency_ms": 423,
    "fingerprint": "6fddf5899a9e65ba",
    "search": true,
    "adult": false,
@@ -2348,7 +2834,7 @@
    "name": "暴风资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/184.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2356,6 +2842,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 2684,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 294,
      "err": ""
     }
    ],
@@ -2365,7 +2857,7 @@
    ],
    "listed": true,
    "api": "https://bfzyapi.com/api.php/Seacms/vod/",
-   "latency_ms": 2684,
+   "latency_ms": 294,
    "fingerprint": "6fddf5899a9e65ba",
    "search": true,
    "adult": false,
@@ -2377,9 +2869,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/184.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "ReadTimeout"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -2401,9 +2899,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/184.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "ReadTimeout"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -2424,7 +2928,7 @@
    "name": "大地资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/147.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2432,6 +2936,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 3567,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 861,
      "err": ""
     }
    ],
@@ -2442,7 +2952,7 @@
    ],
    "listed": true,
    "api": "https://dadiapi.com/api.php",
-   "latency_ms": 3567,
+   "latency_ms": 861,
    "fingerprint": "daf7eb3a4a041297",
    "search": true,
    "adult": true,
@@ -2453,7 +2963,7 @@
    "name": "大地资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/147.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2461,6 +2971,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 3398,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 842,
      "err": ""
     }
    ],
@@ -2470,7 +2986,7 @@
    ],
    "listed": true,
    "api": "https://dadiapi.com/api.php/provide/vod/",
-   "latency_ms": 3398,
+   "latency_ms": 842,
    "fingerprint": "daf7eb3a4a041297",
    "search": true,
    "adult": true,
@@ -2481,7 +2997,7 @@
    "name": "大地资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/147.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2489,6 +3005,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 3602,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 832,
      "err": ""
     }
    ],
@@ -2498,7 +3020,7 @@
    ],
    "listed": true,
    "api": "https://dadiapi.com/sea_api.php",
-   "latency_ms": 3602,
+   "latency_ms": 832,
    "fingerprint": "daf7eb3a4a041297",
    "search": true,
    "adult": true,
@@ -2509,7 +3031,7 @@
    "name": "大地资源采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/147.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2517,6 +3039,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 3644,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 865,
      "err": ""
     }
    ],
@@ -2526,7 +3054,7 @@
    ],
    "listed": true,
    "api": "https://dadiapi.com/feifei/",
-   "latency_ms": 3644,
+   "latency_ms": 865,
    "fingerprint": "daf7eb3a4a041297",
    "search": true,
    "adult": true,
@@ -2537,7 +3065,7 @@
    "name": "非凡资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/186.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2545,6 +3073,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1426,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 831,
      "err": ""
     }
    ],
@@ -2557,7 +3091,7 @@
    ],
    "listed": true,
    "api": "http://api.ffzyapi.com/api.php/provide/vod/",
-   "latency_ms": 1426,
+   "latency_ms": 831,
    "fingerprint": "8dd74556cb2044cd",
    "search": true,
    "adult": false,
@@ -2568,7 +3102,7 @@
    "name": "非凡资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/186.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2576,6 +3110,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1972,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 1262,
      "err": ""
     }
    ],
@@ -2585,7 +3125,7 @@
    ],
    "listed": true,
    "api": "http://api.ffzyapi.com/api.php/seacms/vod/at/xml/",
-   "latency_ms": 1972,
+   "latency_ms": 1262,
    "fingerprint": "8dd74556cb2044cd",
    "search": true,
    "adult": false,
@@ -2597,9 +3137,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/192.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "blocked/http200"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -2627,9 +3173,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/192.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "blocked/http200"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -2651,9 +3203,15 @@
    "detail": "https://www.yszzq.com/ziyuan/api/192.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "blocked/http200"
+    },
     {
      "d": "2026-11-21",
      "ok": false,
@@ -2674,7 +3232,7 @@
    "name": "无尽资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/195.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2682,6 +3240,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 1047,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 64,
      "err": ""
     }
    ],
@@ -2692,9 +3256,9 @@
    ],
    "listed": true,
    "api": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/xml/",
-   "latency_ms": 1047,
+   "latency_ms": 64,
    "fingerprint": "c07a85c9098ee392",
-   "search": false,
+   "search": true,
    "adult": true,
    "last_ok": "2026-11-21",
    "last_check": "2026-11-21"
@@ -2703,7 +3267,7 @@
    "name": "无尽资源网采集接口",
    "detail": "https://www.yszzq.com/ziyuan/api/195.html",
    "first_seen": "2026-11-21",
-   "ok_count": 1,
+   "ok_count": 2,
    "fail_count": 0,
    "fail_streak": 0,
    "history": [
@@ -2711,6 +3275,12 @@
      "d": "2026-11-21",
      "ok": true,
      "ms": 752,
+     "err": ""
+    },
+    {
+     "d": "2026-11-21",
+     "ok": true,
+     "ms": 54,
      "err": ""
     }
    ],
@@ -2721,10 +3291,10 @@
     "API接口"
    ],
    "listed": true,
-   "api": "https://api.wujinapi.me/api.php/provide/vod/at/xmlsea/",
-   "latency_ms": 752,
+   "api": "https://api.wujinapi.me/api.php/provide/vod/",
+   "latency_ms": 54,
    "fingerprint": "c07a85c9098ee392",
-   "search": false,
+   "search": true,
    "adult": true,
    "last_ok": "2026-11-21",
    "last_check": "2026-11-21"
@@ -2734,14 +3304,20 @@
    "detail": "https://www.yszzq.com/ziyuan/api/112.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
     {
      "d": "2026-11-21",
      "ok": false,
      "ms": null,
      "err": "blocked/http502"
+    },
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "ConnectionError"
     }
    ],
    "content": "电影 / 电视剧 / 动漫 / 综艺 / 短视频",
@@ -2750,7 +3326,7 @@
    ],
    "listed": true,
    "api": "http://zy.itono.cn/inc/api.php",
-   "last_error": "blocked/http502",
+   "last_error": "ConnectionError",
    "last_check": "2026-11-21"
   },
   "yueai55.cc/yuelove.php/provide/vod/at/": {
@@ -2758,14 +3334,20 @@
    "detail": "https://www.yszzq.com/ziyuan/api/162.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
     {
      "d": "2026-11-21",
      "ok": false,
      "ms": null,
      "err": "SSLError"
+    },
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "ConnectionError"
     }
    ],
    "content": "小说 / 其他",
@@ -2774,7 +3356,7 @@
    ],
    "listed": true,
    "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/",
-   "last_error": "SSLError",
+   "last_error": "ConnectionError",
    "last_check": "2026-11-21"
   },
   "99reapi.com/api.php/provide/vod/at/": {
@@ -2782,14 +3364,20 @@
    "detail": "https://www.yszzq.com/ziyuan/api/165.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
     {
      "d": "2026-11-21",
      "ok": false,
      "ms": null,
      "err": "SSLError"
+    },
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "ConnectionError"
     }
    ],
    "content": "小说 / 其他",
@@ -2798,7 +3386,7 @@
    ],
    "listed": true,
    "api": "https://99reapi.com/api.php/provide/vod/at/xml",
-   "last_error": "SSLError",
+   "last_error": "ConnectionError",
    "last_check": "2026-11-21"
   },
   "jipinzyapi.com/api.php/provide/vod/at/": {
@@ -2806,14 +3394,20 @@
    "detail": "https://www.yszzq.com/ziyuan/api/202.html",
    "first_seen": "2026-11-21",
    "ok_count": 0,
-   "fail_count": 1,
-   "fail_streak": 1,
+   "fail_count": 2,
+   "fail_streak": 2,
    "history": [
     {
      "d": "2026-11-21",
      "ok": false,
      "ms": null,
      "err": "SSLError"
+    },
+    {
+     "d": "2026-11-21",
+     "ok": false,
+     "ms": null,
+     "err": "ConnectionError"
     }
    ],
    "content": "电影 / 其他",
@@ -2822,9 +3416,9 @@
    ],
    "listed": true,
    "api": "https://jipinzyapi.com/api.php/provide/vod/at/xml",
-   "last_error": "SSLError",
+   "last_error": "ConnectionError",
    "last_check": "2026-11-21"
   }
  },
- "updated": "2026-11-21 16:33 CST"
+ "updated": "2026-11-21 16:35 CST"
 }
