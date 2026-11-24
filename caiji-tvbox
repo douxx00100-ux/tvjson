@@ -2,11 +2,11 @@
   "sources": [
     {
       "name": "星夜资源站",
-      "url": "https://xyezy.com/api.php/provide/vod/at/xmlsea/"
+      "url": "https://xyezy.com/api.php/provide/vod/"
     },
     {
       "name": "看看资源影视",
-      "url": "https://f-1.cc/api.php/provide/vod/"
+      "url": "https://f-1.cc/api.php/provide/vod/at/xml/"
     },
     {
       "name": "大地资源",
@@ -25,16 +25,20 @@
       "url": "https://dadiapi.com/feifei/"
     },
     {
+      "name": "奥斯卡资源API",
+      "url": "https://aosikazy.com/api.php/provide/vod/at/xml/"
+    },
+    {
       "name": "奶香香资源站",
-      "url": "https://Naixxzy.com/api.php/provide/vod/at/xml/"
+      "url": "https://Naixxzy.com/api.php/provide/vod/at/xml"
     },
     {
       "name": "玉兔资源",
       "url": "https://apiyutu.com/api.php/Seacms/vod/"
     },
     {
-      "name": "玉兔资源·xml",
-      "url": "https://apiyutu.com/api.php/provide/vod/at/xml/"
+      "name": "玉兔资源·2",
+      "url": "https://apiyutu.com/api.php/provide/vod/"
     },
     {
       "name": "黑料资源网",
@@ -46,7 +50,7 @@
     },
     {
       "name": "ikun资源网",
-      "url": "https://ikunzyapi.com/api.php/provide/vod"
+      "url": "https://ikunzyapi.com/api.php/provide/vod/at/xml"
     },
     {
       "name": "ikun资源网·xml",
@@ -62,7 +66,7 @@
     },
     {
       "name": "厂长资源",
-      "url": "https://api.changzhang.tv/api.php/provide/vod/at/xml/"
+      "url": "https://api.changzhang.tv/api.php/provide/vod/"
     },
     {
       "name": "厂长资源·xml",
@@ -94,7 +98,7 @@
     },
     {
       "name": "虎牙资源",
-      "url": "https://www.huyaapi.com/api.php/provide/vod/at/json"
+      "url": "https://www.huyaapi.com/api.php/provide/vod/at/xml/"
     },
     {
       "name": "光速资源站",
@@ -118,15 +122,19 @@
     },
     {
       "name": "茅台资源站",
-      "url": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/"
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod/at/xmlsea/"
     },
     {
       "name": "茅台资源站·mtyun",
       "url": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtyun/at/xml/"
     },
     {
+      "name": "牛牛资源网",
+      "url": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml"
+    },
+    {
       "name": "最大资源网",
-      "url": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/"
+      "url": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xmlsea/"
     },
     {
       "name": "最大资源网·2",
@@ -146,7 +154,7 @@
     },
     {
       "name": "如意资源网",
-      "url": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/"
+      "url": "https://cj.rycjapi.com/api.php/provide/vod/"
     },
     {
       "name": "如意资源网·xml",
@@ -202,7 +210,7 @@
     },
     {
       "name": "量子资源网资源",
-      "url": "https://cj.lziapi.com/api.php/provide/vod/"
+      "url": "https://cj.lziapi.com/api.php/provide/vod/at/xml/"
     },
     {
       "name": "量子资源网资源·xml",
@@ -266,7 +274,7 @@
     },
     {
       "name": "豪华资源网",
-      "url": "https://hhzyapi.com/api.php/provide/vod"
+      "url": "https://hhzyapi.com/api.php/provide/vod/"
     },
     {
       "name": "豪华资源网·hhyun",
