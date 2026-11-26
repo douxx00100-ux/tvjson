@@ -6,7 +6,7 @@
     },
     {
       "name": "看看资源影视",
-      "url": "https://f-1.cc/api.php/provide/vod/at/xml/"
+      "url": "https://f-1.cc/api.php/provide/vod/"
     },
     {
       "name": "大地资源",
@@ -26,7 +26,7 @@
     },
     {
       "name": "奥斯卡资源API",
-      "url": "https://aosikazy.com/api.php/provide/vod/at/xmlsea/"
+      "url": "https://aosikazy.com/api.php/provide/vod/at/xml/"
     },
     {
       "name": "奶香香资源站",
@@ -37,8 +37,8 @@
       "url": "https://apiyutu.com/api.php/Seacms/vod/"
     },
     {
-      "name": "玉兔资源·xml",
-      "url": "https://apiyutu.com/api.php/provide/vod/at/xml/"
+      "name": "玉兔资源·2",
+      "url": "https://apiyutu.com/api.php/provide/vod/"
     },
     {
       "name": "黑料资源网",
@@ -66,7 +66,7 @@
     },
     {
       "name": "厂长资源",
-      "url": "https://api.changzhang.tv/api.php/provide/vod/"
+      "url": "https://api.changzhang.tv/api.php/provide/vod/at/xml/"
     },
     {
       "name": "厂长资源·xml",
@@ -78,7 +78,7 @@
     },
     {
       "name": "大众资源",
-      "url": "https://cdn.dzzyapi.com/api.php/provide/vod/"
+      "url": "https://cdn.dzzyapi.com/api.php/provide/vod/at/xmlsea/"
     },
     {
       "name": "新芒果资源站",
@@ -94,11 +94,19 @@
     },
     {
       "name": "魔都动漫资源",
-      "url": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/?cms=1"
+      "url": "https://www.mdzyapi.com/api.php/provide/vod/at/xml/"
+    },
+    {
+      "name": "吉吉资源采集接口，支持苹果/海洋/飞飞/赞片",
+      "url": "http://caiji.jjzyapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "吉吉资源采集接口，支持苹果/海洋/飞飞/赞片·xml",
+      "url": "http://caiji.jjzyapi.com/api.php/seacms/vod/at/xml/"
     },
     {
       "name": "虎牙资源",
-      "url": "https://www.huyaapi.com/api.php/provide/vod/at/json"
+      "url": "https://www.huyaapi.com/api.php/provide/vod/at/xmlsea/"
     },
     {
       "name": "光速资源站",
@@ -122,7 +130,7 @@
     },
     {
       "name": "茅台资源站",
-      "url": "https://caiji.maotaizy.cc/api.php/provide/vod/at/xmlsea/"
+      "url": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/"
     },
     {
       "name": "茅台资源站·mtyun",
@@ -134,7 +142,7 @@
     },
     {
       "name": "最大资源网",
-      "url": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xml/"
+      "url": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/at/xmlsea/"
     },
     {
       "name": "最大资源网·2",
@@ -142,7 +150,7 @@
     },
     {
       "name": "360资源站",
-      "url": "https://360zyzz.com/api.php/provide/vod/at/xml/"
+      "url": "https://360zyzz.com/api.php/provide/vod"
     },
     {
       "name": "360资源站·xml",
@@ -154,7 +162,7 @@
     },
     {
       "name": "如意资源网",
-      "url": "https://cj.rycjapi.com/api.php/provide/vod/"
+      "url": "https://cj.rycjapi.com/api.php/provide/vod/at/xml/"
     },
     {
       "name": "如意资源网·xml",
@@ -178,7 +186,7 @@
     },
     {
       "name": "极速资源网",
-      "url": "https://jszyapi.com/api.php/provide/vod"
+      "url": "https://jszyapi.com/api.php/provide/vod/"
     },
     {
       "name": "极速资源网·jsyun",
@@ -210,7 +218,7 @@
     },
     {
       "name": "量子资源网资源",
-      "url": "https://cj.lziapi.com/api.php/provide/vod/at/xml/"
+      "url": "https://cj.lziapi.com/api.php/provide/vod/"
     },
     {
       "name": "量子资源网资源·xml",
@@ -250,11 +258,11 @@
     },
     {
       "name": "爱奇艺资源站",
-      "url": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/"
+      "url": "https://www.iqiyizyapi.com/api.php/provide/vod/at/xml/?cms=1"
     },
     {
       "name": "猫眼资源站",
-      "url": "https://api.maoyanapi.top/api.php/provide/vod/at/xml/"
+      "url": "https://api.maoyanapi.top/api.php/provide/vod"
     },
     {
       "name": "红牛资源",
@@ -278,6 +286,10 @@
     },
     {
       "name": "金鹰资源网苹果CMS",
+      "url": "https://jyzyapi.com/provide/vod/at/xmlsea/"
+    },
+    {
+      "name": "金鹰资源网苹果CMS·jinyingm3u8",
       "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/"
     }
   ]
